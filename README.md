@@ -15,8 +15,8 @@ The prepared-instance counts below give the documented logical collection sizes;
 | Family | Collection | Instances | Primary reference |
 | ------ | ---------- | --------: | --------------- |
 | W1-W4 | Albareda warehouse instances | 80 | Albareda-Sambola et al. (2009) |
-| W5A | Henn instances | 64 | Henn & Wäscher (2012) |
-| W5B | Henn instances | 400 | Henn & Wäscher (2012) |
+| W5A | Henn instances | 64 | Menéndez et al. (2017) |
+| W5B | Henn instances | 400 | Menéndez et al. (2018) |
 | W5C | Henn instances | 5840 | Henn & Wäscher (2012) |
 | W5D | W5D / OBSP instances | 96 | Menéndez et al. (2017) |
 | W6A | Arbex order-picking collection | 592 | Valle et al. (2016) |
