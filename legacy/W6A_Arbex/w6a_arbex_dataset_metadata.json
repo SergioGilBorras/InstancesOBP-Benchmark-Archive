@@ -1,0 +1,10 @@
+{
+  "NameInstanceSet": "Arbex W6A Warehouse Instances",
+  "URL": "https://homepages.dcc.ufmg.br/~arbex/orderpicking.html",
+  "Papers": [
+    "Valle, C. A., Beasley, J. E., & da Cunha, A. S., 2016. Modelling and Solving the Joint Order Batching and Picker Routing Problem in Inventories. In Combinatorial Optimization (ISCO 2016), Lecture Notes in Computer Science, pp. 81–97. Springer. doi:10.1007/978-3-319-45587-7_8",
+    "Valle, C. A., Beasley, J. E., & da Cunha, A. S., 2017. Optimally solving the joint order batching and picker routing problem. European Journal of Operational Research, 262(3), 817–834. doi:10.1016/j.ejor.2017.03.069",
+    "Valle, C. A., & Beasley, J. E., 2020. Order batching using an approximation for the distance travelled by pickers. European Journal of Operational Research, 284(2), 460–484. doi:10.1016/j.ejor.2020.01.022"
+  ]
+}
+

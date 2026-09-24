@@ -1,0 +1,11 @@
+{
+  "NameInstanceSet": "W6B SQL-Derived Warehouse Instances",
+  "URL": "https://github.com/julianhyde/foodmart-data-mysql",
+  "Papers": [
+    "Valle, C. A., Beasley, J. E., & da Cunha, A. S. (2017). Optimally solving the joint order batching and picker routing problem. European Journal of Operational Research, 262(3), 817–834. doi:10.1016/j.ejor.2017.03.069",
+    "Briant, O., Cambazard, H., Cattaruzza, D., Catusse, N., Ladier, A.-L., & Ogier, M. (2020). An efficient and general approach for the joint order batching and picker routing problem. European Journal of Operational Research, 285(2), 497–512. doi:10.1016/j.ejor.2020.01.059",
+    "Valle, C. A., & Beasley, J. E. (2020). Order batching using an approximation for the distance travelled by pickers. European Journal of Operational Research, 284(2), 460–484. doi:10.1016/j.ejor.2020.01.022",
+    "Theys, C., Bräysy, O., Dullaert, W., & Raa, B. (2010). Using a TSP heuristic for routing order pickers in warehouses. European Journal of Operational Research, 200(3), 755–763. doi:10.1016/j.ejor.2009.01.036"
+  ]
+}
+

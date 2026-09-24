@@ -1,0 +1,19 @@
+{
+  "NameInstanceSet": "Albareda W1-W4 Warehouse Instances",
+  "URL": "https://grafo.etsii.urjc.es/optsicom/obp.html",
+  "Papers": [
+    "Albareda-Sambola, M., Alonso-Ayuso, A., Molina, E., De Blas, C.S., 2009. Variable neighborhood search for order batching in a warehouse. Asia-Pacific Journal of Operational Research 26, 655–683. doi:10.1142/S0217595909002390",
+    "De Koster, R.B.M., Roodbergen, K.J., Van Voorden, R., 1999. Reduction of walking time in the distribution center of De Bijenkorf. Lecture Notes in Economics and Mathematical Systems. New Trends in Distribution Logistics 480, 215–234. doi:10.1007/978-3-642-58568-5_11",
+    "Ho, Y.C., Tseng, Y.Y., 2006. A study on order-batching methods of order picking in a distribution centre with two cross-aisles. International Journal of Production Research 44, 3391–3417. doi:10.1080/00207540600558015",
+    "Menéndez, B., Pardo, E.G., Duarte, A., Alonso-Ayuso, A., Molina, E., 2015. General variable neighborhood search applied to the picking process in a warehouse. Electronic Notes in Discrete Mathematics 47, 77–84. doi:10.1016/j.endm.2014.11.011",
+    "Menéndez, B., Pardo, E.G., Alonso-Ayuso, A., Molina, E., Duarte, A., 2017. Variable neighborhood search strategies for the order batching problem. Computers & Operations Research 78, 500–512. doi:10.1016/j.cor.2016.01.020",
+    "Gil-Borrás, S., Pardo, E.G., Alonso-Ayuso, A., Duarte, A., 2018. New VNS Variants for the Online Order Batching Problem. Lecture Notes in Computer Science 11328, 89–100. doi:10.1007/978-3-030-15843-9_8",
+    "Gil-Borrás, S., Pardo, E.G., Alonso-Ayuso, A., Duarte, A., 2019. Basic VNS for a variant of the Online Order Batching Problem. Lecture Notes in Computer Science 12010, 17–36. doi:10.1007/978-3-030-44932-2_2",
+    "Gil-Borrás, S., Pardo, E.G., Alonso-Ayuso, A., Duarte, A., 2020. Fixed versus variable time window warehousing strategies in real time. Progress in Artificial Intelligence 9, 315–324. doi:10.1007/s13748-020-00215-1",
+    "Gil-Borrás, S., Pardo, E.G., Alonso-Ayuso, A., Duarte, A., 2020. GRASP with Variable Neighborhood Descent for the Online Order Batching Problem. Journal of Global Optimization 78, 295–325. doi:10.1007/s10898-020-00910-2",
+    "Gil-Borrás, S., Pardo, E.G., Alonso-Ayuso, A., Duarte, A., 2021. A heuristic approach for the online order batching problem with multiple pickers. Computers & Industrial Engineering 160, 107517. doi:10.1016/j.cie.2021.107517",
+    "Gil Borrás, S., 2022. Online Order Batching Problem: a heuristic approach for single and multiple pickers. Ph.D. thesis. ETSI Sistemas Informáticos Universidad Politécnica de Madrid. doi:10.20868/UPM.thesis.72538",
+    "Gil-Borrás, S., Pardo, E.G., Jiménez, E., Sörensen, K., 2024. The time-window strategy in the online order batching problem. International Journal of Production Research 62, 4446–4469. doi:10.1080/00207543.2023.2263884"
+  ]
+}
+
